@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.home{
+ 
+width: 100%;
+height: 9207px;
+
+background-color: blue;
+}
+.top{
+ 
+  width: 100%;
+  height: 927px;
+  
+  background-color: blue;
+  }
+  .logoo{
+    position: absolute;
+width: 243px;
+height: 38px;
+
+margin-left: 5%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 36px;
+
+color: #F5F5F5;
+
+  }
+  /* Expirience Epic Beauty */
+
+.Expirience{
+position: absolute;
+width: 737px;
+height: 387px;
+
+font-family: 'Fjalla One';
+font-style: normal;
+font-weight: 400;
+font-size: 140px;
+line-height: 176px;
+margin-left: 5%;
+
+color: #F5F5F5;
+
+mix-blend-mode: normal;
+}
+
+.datedv{
+  position: absolute;
+width: 1123px;
+height: 187px;
+margin-top: 35%;
+
+background: #C9CC41;
+}
+
+.btncheck{
+  position: absolute;
+width: 215px;
+height: 182px;
+float: left;
+margin-left:908px;
+
+background: #000000;
+font-family: 'Fjalla One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #EEEEEE;
+
+}
+.btntext{
+  position: absolute;
+width: 146px;
+height: 53px;
+
+font-family: 'Fjalla One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+
+color: #EEEEEE;
+
+}
+.checkinDate{
+ float: left;
+
+width: 148px;
+height: 140px;
+
+background: #FFFFFF;
+}

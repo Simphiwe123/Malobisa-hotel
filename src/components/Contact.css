@@ -1,0 +1,123 @@
+.top{
+ 
+    width: 100%;
+    height: 900px;
+    
+    background-color: blue;
+    }
+    .logoo{
+        position: absolute;
+    width: 243px;
+    height: 38px;
+    
+    margin-left: 5%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 36px;
+    
+    color: #F5F5F5;
+    
+      }
+
+      .abouth{
+        position: absolute;
+width: 410px;
+height: 88px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #FFFFFF;
+margin-top: 42%;
+left: 35%;
+
+      }
+      .footerd{
+        position: absolute;
+width: 100%;
+height: 442px;
+top:1620px;
+
+background: #000000;
+      }
+      .conh3{
+        position: absolute;
+width: 451px;
+height: 53px;
+margin-left: 1%;
+margin-top: 2%;
+float: left;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+      }
+      .cusform{
+        width: 100%;
+        height: 1191px;
+        background: #EEEEEE;
+       margin-top: 0%;
+      }
+      .addre{
+        position: absolute;
+      
+width: 260px;
+height: 135px;
+margin-top: 5%;
+margin-left: 9%;
+background: #FFFFFF;
+      }
+      .addre1{
+        position: absolute;
+      
+width: 260px;
+height: 135px;
+margin-top: 5%;
+margin-left: 33%;
+background: #FFFFFF;
+      }
+      .addre2{
+        position: absolute;
+      
+width: 260px;
+height: 135px;
+margin-top: 5%;
+margin-left: 57%;
+background: #FFFFFF;
+      }
+
+      .addre3{
+        position: absolute;
+      
+width: 260px;
+height: 135px;
+margin-top: 5%;
+margin-left: 78%;
+background: #FFFFFF;
+      }
+      .emailform{
+        width: 100%;
+        height: 50%;
+        background-color: aquamarine;
+        margin-top: 13%;
+        position: absolute;
+      }
+      .mapdiv{
+        position: absolute;
+width: 573px;
+height: 693px;
+background-color: azure;
+      }
